@@ -1,4 +1,4 @@
-# Assignment 3 
+# Megatron-style-Tensor-Parallelism
 In this assignment, we will explore how to implement the communication protocols for *Data Parallel* and 
 *Tensor Model Parallel* training from scratch using Message Passing Interface ([MPI](https://mpi4py.readthedocs.io/en/stable/))
 and NumPy.
